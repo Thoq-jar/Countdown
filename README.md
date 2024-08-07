@@ -5,6 +5,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Authors
 - Thoq
 
+# Clone command
+```bash
+git clone https://github.com/Thoq-jar/Countdown.git
+git checkout master
+```
 # License
 [Thoq-License](https://raw.githubusercontent.com/Thoq-jar/Thoq-License/main/License)
 
