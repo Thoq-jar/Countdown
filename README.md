@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.3.
 
+# Authors
+- Thoq
+
 # License
 [Thoq-License](https://raw.githubusercontent.com/Thoq-jar/Thoq-License/main/License)
 
