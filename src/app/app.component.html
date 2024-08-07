@@ -1,7 +1,8 @@
 <main>
+  <title>{{ title }}</title>
   <div class="countdown-container">
     <h1 class="title">{{ title }}</h1>
-    <h1 id="countdownTitle" class="countdown-title">Time till event: {{ countdown }} </h1>
+    <h1 id="countdownTitle" class="countdown-title">Time till event: {{ countdown }}</h1>
     <input id="countdown" class="input" type="datetime-local" #datetimeInput>
     <button class="notification-button" (click)="setNotification(datetimeInput.value)">Set Notification</button>
     <h5 class="warning">(Remember to keep this website open and make sure to allow notifications!)</h5>
