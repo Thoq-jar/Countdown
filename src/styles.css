@@ -7,6 +7,12 @@ body {
   transition: 0.3s all ease-in-out linear;
 }
 
+@media (max-width: 900px) {
+  body {
+      transform: scale(0.5);
+      transform-origin: center;
+  }
+}
 .countdown-container {
   display: flex;
   flex-direction: column;

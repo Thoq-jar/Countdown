@@ -6,6 +6,7 @@
   idx.extensions = [
     "angular.ng-template"
   ];
+
   idx.previews = {
     previews = {
       web = {
